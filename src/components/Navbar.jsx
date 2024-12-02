@@ -1,7 +1,6 @@
 import { Link } from "react-router-dom";
 import logo from "./../assets/logo-ironhack-blue.png";
 
-
 function Navbar() {
   return (
     <nav className="bg-blue-600 text-white shadow-md fixed top-0 left-0 w-full z-50">
